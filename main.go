@@ -1,7 +1,7 @@
 package RpORM
 
 import (
-	"RpORM/core"
+	"github.com/Go-API/core"
 )
 
 func main() {

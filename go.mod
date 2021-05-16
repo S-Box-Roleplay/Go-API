@@ -1,4 +1,4 @@
-module RpORM
+module github.com/Go-API
 
 go 1.16
 
