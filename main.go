@@ -1,7 +1,7 @@
 package RpORM
 
 import (
-	"github.com/Go-API/core"
+	"github.com/S-Box-Roleplay/Go-API/core"
 )
 
 func main() {

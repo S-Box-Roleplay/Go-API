@@ -1,4 +1,4 @@
-module github.com/Go-API
+module github.com/S-Box-Roleplay/Go-API
 
 go 1.16
 
